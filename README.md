@@ -31,11 +31,15 @@ This capstone project explores the implementation and analysis of multiple cyber
 
 ## 🧪 Files and Scripts
 
-.
 ├── jammer.c # Jamming attack implementation
+
 ├── sky-sinkhole.c # Sinkhole attack on Sky motes
+
 ├── dos_attack.c # Denial-of-Service logic
+
 ├── blackhole_attack.c # Packet dropper (Blackhole)
+
 ├── spoofing_attack.c # Identity spoofing demo
+
 ├── cooja_test1.csc # Simulation file (Cooja)
 
